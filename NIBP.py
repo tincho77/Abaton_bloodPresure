@@ -1,3 +1,6 @@
+#NIBP UN300C Serial port communication:
+#the device is connected over arduino nano board
+
 import serial
 import serial.tools.list_ports
 
